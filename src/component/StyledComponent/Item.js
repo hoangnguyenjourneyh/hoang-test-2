@@ -11,4 +11,5 @@ export const Item = styled.li`
   border-radius: 4px;
   font-weight: 800;
   text-align: center;
+  line-height: 20px;
 `;
