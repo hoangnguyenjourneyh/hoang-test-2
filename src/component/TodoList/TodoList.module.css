@@ -1,0 +1,13 @@
+.listContainer {
+  max-height: 298px;
+  overflow-y: auto;
+}
+
+.toggleWrapper {
+  margin: 15px 0;
+}
+
+.button {
+  margin: 0 10px;
+  padding: 10px 25px;
+}

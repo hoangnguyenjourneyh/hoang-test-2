@@ -1,0 +1,11 @@
+.itemWrapper {
+  display: grid;
+  grid-gap: 40px;
+  padding: 10px 30px;
+  grid-template-columns: auto 50px;
+  margin: 0 40px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
